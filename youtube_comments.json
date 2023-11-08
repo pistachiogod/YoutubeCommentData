@@ -1,0 +1,1362 @@
+[
+    {
+        "kind": "youtube#commentThread",
+        "etag": "-dghdZbQSm67IoXCSfhpYXu-SyA",
+        "id": "UgyyNiTPm0S7CwbIdbR4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "76Y10W9TLTKcDFWW9CAysEQawqw",
+                "id": "UgyyNiTPm0S7CwbIdbR4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "Am I the only one who can&#39;t hear the difference?\ud83e\udd7a\ud83d\ude48",
+                    "textOriginal": "Am I the only one who can't hear the difference?\ud83e\udd7a\ud83d\ude48",
+                    "authorDisplayName": "F._.T",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/6d-hGK64wRr7NPA-8LriM13J_tuqU9nTF0n4-xkoTY23yQFiiWd0AcLA3qz5rZ_a8Fmfn4lh=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCQFG-sCbsVaCpbFzZYDwwbQ",
+                    "authorChannelId": {
+                        "value": "UCQFG-sCbsVaCpbFzZYDwwbQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-08T03:59:59Z",
+                    "updatedAt": "2023-11-08T03:59:59Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "Pug1PUD2MfU-Ra6GlCvXoCHVykY",
+        "id": "Ugwp2unRcaZ0IJ111Gp4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "KeCuWRnYf9E8OlwNf-tXvnFnwnA",
+                "id": "Ugwp2unRcaZ0IJ111Gp4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "I thought the lyrics were &quot;heaven sent&quot;, not &quot;heaven sin&quot;,  which is correct?",
+                    "textOriginal": "I thought the lyrics were \"heaven sent\", not \"heaven sin\",  which is correct?",
+                    "authorDisplayName": "britt hunt",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKaN6WJAVzxUHk4cqNZca1q26SuwL0ulffV2Vw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCb_0cNfrBdd-N1d3QCCqXhg",
+                    "authorChannelId": {
+                        "value": "UCb_0cNfrBdd-N1d3QCCqXhg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-08T03:30:19Z",
+                    "updatedAt": "2023-11-08T03:30:19Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "gD4QuHwLB1CP9ndGrzp7psApM7k",
+        "id": "UgzsN1-yNtmPtifTHUd4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "98CY6GCcjTtdiRGdpkppF14OxJc",
+                "id": "UgzsN1-yNtmPtifTHUd4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "Me gust\u00f3 m\u00e1s la versi\u00f3n original.",
+                    "textOriginal": "Me gust\u00f3 m\u00e1s la versi\u00f3n original.",
+                    "authorDisplayName": "galeo dionisio",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKZw2Xr6J0573zeRwnZgRtmOYip4AwUJIFv0Ui2G7qEzYPxOwBEesFcpLBZqxM_P=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCWfILEBwsg2gFKoqVsR0Trg",
+                    "authorChannelId": {
+                        "value": "UCWfILEBwsg2gFKoqVsR0Trg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2023-11-08T03:13:41Z",
+                    "updatedAt": "2023-11-08T03:13:41Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "kgxqQlbYuTt5qr8O3bSInIbCEsA",
+        "id": "Ugw2-x_yagyhPC3ht3R4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "KYQJPefAIkwt-65SqWBPizvm-eM",
+                "id": "Ugw2-x_yagyhPC3ht3R4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "Sounds washed out compared to original",
+                    "textOriginal": "Sounds washed out compared to original",
+                    "authorDisplayName": "thewirednerv",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKbIIQJtfrfJVnWV_AEgy1tfIeJuGU7Ym5JhFQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCVsiZW0HTWGrkqSf67Z6Xxw",
+                    "authorChannelId": {
+                        "value": "UCVsiZW0HTWGrkqSf67Z6Xxw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-08T02:37:18Z",
+                    "updatedAt": "2023-11-08T02:37:18Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "I-DlNnMe-qHUnaZ6YVxKgPq6HQY",
+        "id": "UgwSbMgpuZ7dqlDJSEx4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "lLDRSfx8eyflWSB-V8uIBkHclns",
+                "id": "UgwSbMgpuZ7dqlDJSEx4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "Sorry, but the original is so much better. This version sounds completely computerized/autotuned/AI. Very disappointing.",
+                    "textOriginal": "Sorry, but the original is so much better. This version sounds completely computerized/autotuned/AI. Very disappointing.",
+                    "authorDisplayName": "Mur Ther",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKYRbkfzW5hLTiXCJGm8mFKCz4dyrjphCqUdng=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCzl0CjAgHJiK6LLP3Qj0YgA",
+                    "authorChannelId": {
+                        "value": "UCzl0CjAgHJiK6LLP3Qj0YgA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-08T01:51:47Z",
+                    "updatedAt": "2023-11-08T01:51:47Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "ih2NKeuaZ9KPst5rBDTVdeKq0Xk",
+        "id": "Ugz1tL2CxFxhHsYA8gt4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "xoemcgjm9d0poFQ0B2ufxFunvrk",
+                "id": "Ugz1tL2CxFxhHsYA8gt4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "Prefiro a vers\u00e3o antiga. Esta n\u00e3o parece que a m\u00fasica est\u00e1 cont\u00ednua, parece que ela gravou cada parte e depois botou tudo junto, uma em cima da outra. N\u00e3o me faz viciar como a outra. Desculpa, Taylor, pra mim n\u00e3o foi desta vez. \ud83d\ude22\ud83d\ude22",
+                    "textOriginal": "Prefiro a vers\u00e3o antiga. Esta n\u00e3o parece que a m\u00fasica est\u00e1 cont\u00ednua, parece que ela gravou cada parte e depois botou tudo junto, uma em cima da outra. N\u00e3o me faz viciar como a outra. Desculpa, Taylor, pra mim n\u00e3o foi desta vez. \ud83d\ude22\ud83d\ude22",
+                    "authorDisplayName": "Sebastian Silva",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKajJiPFYey9cwt3_Mf-R3cCCGqwx0yAZD8tFW5x-2c=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCvDRLVb1NjbynMeKdR8PGNw",
+                    "authorChannelId": {
+                        "value": "UCvDRLVb1NjbynMeKdR8PGNw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2023-11-08T01:16:43Z",
+                    "updatedAt": "2023-11-08T01:16:43Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "kiII7eZkaJucHWfTKYRg8j5FYos",
+        "id": "Ugy6Z6meEl9RLTgBNM94AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "jhl9FqVmfA3dAHpiChRrEnxcuq8",
+                "id": "Ugy6Z6meEl9RLTgBNM94AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "YES! NO MORE STARBUCKS LOVERS!!!!!!!!!11!!!!!!",
+                    "textOriginal": "YES! NO MORE STARBUCKS LOVERS!!!!!!!!!11!!!!!!",
+                    "authorDisplayName": "GroovyTomato",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/1-EPgpozhkZ8XL2mlNngSM7C-u_A1FkncHZM8b_Ic1SqR24XJix_smPUuR3XHSW4IWA7OjYvJks=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCKRXFatakoCbUPSyrQvgJXA",
+                    "authorChannelId": {
+                        "value": "UCKRXFatakoCbUPSyrQvgJXA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T23:59:34Z",
+                    "updatedAt": "2023-11-07T23:59:34Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "_RXFDHvhiXEvIr20-EB1etmmA_Y",
+        "id": "Ugwn9rXaIhxv87D_BT94AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "hVoOajJEHW0WtXEtXMs5GEz9wa4",
+                "id": "Ugwn9rXaIhxv87D_BT94AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "I can\u2019t explain why but Taylor swift puts my baby to sleep I appreciate it",
+                    "textOriginal": "I can\u2019t explain why but Taylor swift puts my baby to sleep I appreciate it",
+                    "authorDisplayName": "expired Panda",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKbLs1id7qKd23hYoY5V74gfxJsVYTIlAcBGpHRiLw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCq-avBteDF6a4vCsfS5TzjA",
+                    "authorChannelId": {
+                        "value": "UCq-avBteDF6a4vCsfS5TzjA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T23:41:24Z",
+                    "updatedAt": "2023-11-07T23:41:24Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "a9HwlQrxu6Dk_YYCrpZX6-bU0oU",
+        "id": "Ugz4MZ0HA3bwSnZJEvp4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "iPWWI23fPBzPa9tjgRETrKvB2sI",
+                "id": "Ugz4MZ0HA3bwSnZJEvp4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "She.  Be.  There.   Time.   Fly.  By.  Baby.  Baby.  Ile.  Fix.  Me.  A. Drink.   Be.  Right.  Back. Love.  Ya\u2764\u2764",
+                    "textOriginal": "She.  Be.  There.   Time.   Fly.  By.  Baby.  Baby.  Ile.  Fix.  Me.  A. Drink.   Be.  Right.  Back. Love.  Ya\u2764\u2764",
+                    "authorDisplayName": "Charles Lindsey",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKYMdqagL37Ifcyt6n6hkfJ7fTumkb4h8AVqZ6Vzt3P0MA58hCyXstLJ29CZid8B=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCjMSyYuLf0tVnnbHAPFIlhA",
+                    "authorChannelId": {
+                        "value": "UCjMSyYuLf0tVnnbHAPFIlhA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T23:15:42Z",
+                    "updatedAt": "2023-11-07T23:15:42Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "k-Cv-Kjp41igzpPPjA5jUaAflaY",
+        "id": "UgxqI6SNT5rz-YjCjQZ4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "fdPx0ZRv-uRutZ92YjEosyNLS84",
+                "id": "UgxqI6SNT5rz-YjCjQZ4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "When Taylor\u2019s version came out I started to cry and instantly went to this song, I just love blank space so much, I can\u2019t believe this is still taylor",
+                    "textOriginal": "When Taylor\u2019s version came out I started to cry and instantly went to this song, I just love blank space so much, I can\u2019t believe this is still taylor",
+                    "authorDisplayName": "Taylor_swiftfan_4ever",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/0oHLzjSx5tvL_WVNUN8FSH3lkDa9c2ypsm9BeiuZJnRGaWSmIGcVLyeDqkQXsUb-VfedmR9iZg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCezCQwfapH7WctS-orEJqyg",
+                    "authorChannelId": {
+                        "value": "UCezCQwfapH7WctS-orEJqyg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T21:16:15Z",
+                    "updatedAt": "2023-11-07T21:16:15Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "ZuerIuPL8djgILhuXAZ9RYaDjGg",
+        "id": "UgyERNFOC3GRyab60kN4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "75rwpg-T7OWagBcsjP06h7qc2Ic",
+                "id": "UgyERNFOC3GRyab60kN4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "<a href=\"https://www.youtube.com/watch?v=gir8BEqAutk&amp;t=2m52s\">2:52</a> so nobody is going to talk about this or what ??? LOL",
+                    "textOriginal": "2:52 so nobody is going to talk about this or what ??? LOL",
+                    "authorDisplayName": "Shahrazad EL",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKYl-3PnuRRIWM-JNjcyRpfWFN0s_wf9GokHBgR6cw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC6ox4-lNhVvdSGSRIb0Z7tg",
+                    "authorChannelId": {
+                        "value": "UC6ox4-lNhVvdSGSRIb0Z7tg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2023-11-07T20:55:35Z",
+                    "updatedAt": "2023-11-07T20:55:35Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "PlA5XaQgsCqMU-l1vfqKPRuLVZ4",
+        "id": "Ugzf3dnypJ-J8gYR0aJ4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "L69eOse-6ojezMPaN2_xHY8CC8s",
+                "id": "Ugzf3dnypJ-J8gYR0aJ4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "slaying as always taylor",
+                    "textOriginal": "slaying as always taylor",
+                    "authorDisplayName": "Str4wberrx",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/VG7_W9i2yTdF6PpVDTAvAYrJS3fBjp2GjBTCpRWm_eS-T8bZEPddRF-W1Us9-lIyb_c-aT8k_Lc=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCjXOVtdYSDhPmgj7ffhREVw",
+                    "authorChannelId": {
+                        "value": "UCjXOVtdYSDhPmgj7ffhREVw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2023-11-07T18:35:37Z",
+                    "updatedAt": "2023-11-07T18:35:37Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "23L9LaBQPGYDtqTvXaWt9oV8l-s",
+        "id": "UgwoGSiEd9_jZTonKlN4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "pCIPFzZwZU3-4a9nZVSsXyQNrF0",
+                "id": "UgwoGSiEd9_jZTonKlN4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "Isn&#39;t anyone gonna talk about how we can hear her smiling when she sings &quot;Cuz darling I&#39;m a nightmare dressed like a daydream&quot;",
+                    "textOriginal": "Isn't anyone gonna talk about how we can hear her smiling when she sings \"Cuz darling I'm a nightmare dressed like a daydream\"",
+                    "authorDisplayName": "Darshini RameshKumar",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKbKUxzXTYEi4iqeaXcRR0jZPqHv5ow2SR9loJoms4tqm7dxFl-7upRjKYphZnIA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCs28CZhhh5Cye3zz559dM-Q",
+                    "authorChannelId": {
+                        "value": "UCs28CZhhh5Cye3zz559dM-Q"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T17:01:24Z",
+                    "updatedAt": "2023-11-07T17:01:24Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "LCqntRPOK4mc30T5gIlYmszCITQ",
+        "id": "UgzAQvhgvFG1VOSSTKZ4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "0ofjYHn6f0syaaSmAnNWKuFVXkQ",
+                "id": "UgzAQvhgvFG1VOSSTKZ4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "THIS IS SO PERFECT SHE HAS ALBUMS AND LITERALLY SHES A STAR THE VOICE IS MORE LOUD AND CLEAR",
+                    "textOriginal": "THIS IS SO PERFECT SHE HAS ALBUMS AND LITERALLY SHES A STAR THE VOICE IS MORE LOUD AND CLEAR",
+                    "authorDisplayName": "JedV TV",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/KEsdmW7GHP8AjtiZp4nLq6FURNysUg-bHpSbEU6jgpBYsylcxfI9ED7MfyTVRvNUy6cgY4wSXQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCWXgegJpOYPZ7RVz4ydyWdw",
+                    "authorChannelId": {
+                        "value": "UCWXgegJpOYPZ7RVz4ydyWdw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T15:03:53Z",
+                    "updatedAt": "2023-11-07T15:03:53Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "F4uoecGxJ4gQ9aq-dNYd1wuKv5E",
+        "id": "UgxIiDKipQ8_cpQyb114AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "9wCNfV0iaRuhkBPmmbQxpZ8lFc8",
+                "id": "UgxIiDKipQ8_cpQyb114AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "s========iiiiiiiiii",
+                    "textOriginal": "s========iiiiiiiiii",
+                    "authorDisplayName": "Andrea Rashel Itzep P\u00e9rez",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKZ9AkEWbZoxCPUvnFWxI0SkYynHLymaNEeoDTRe9kqcYMjG4IUIse3iwiV-BKIQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCeG6-RDtfig5VkRGqkSbvEA",
+                    "authorChannelId": {
+                        "value": "UCeG6-RDtfig5VkRGqkSbvEA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T14:41:00Z",
+                    "updatedAt": "2023-11-07T14:41:00Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "GI5CjvXir5idPsnp93HdNjZZmks",
+        "id": "Ugz_QwPXEwFhKKl0dzN4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "-KMVoqSPxTQv-UIbXojYUJoTaXk",
+                "id": "Ugz_QwPXEwFhKKl0dzN4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "d",
+                    "textOriginal": "d",
+                    "authorDisplayName": "Andrea Rashel Itzep P\u00e9rez",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKZ9AkEWbZoxCPUvnFWxI0SkYynHLymaNEeoDTRe9kqcYMjG4IUIse3iwiV-BKIQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCeG6-RDtfig5VkRGqkSbvEA",
+                    "authorChannelId": {
+                        "value": "UCeG6-RDtfig5VkRGqkSbvEA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T14:40:05Z",
+                    "updatedAt": "2023-11-07T14:40:05Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "KZlq20Rg2w3QEDyEqa_eX2HRCoQ",
+        "id": "UgxzSmiBhJtglHUFrAx4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "REQ8gRM8roYLM8pUBaimDH8sZDo",
+                "id": "UgxzSmiBhJtglHUFrAx4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "Nice track for headphone users, the beat sits in a nice spot.",
+                    "textOriginal": "Nice track for headphone users, the beat sits in a nice spot.",
+                    "authorDisplayName": "uw10isplaya",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKZDjtd-Fq4ZACEoQcx4LKX_Ojzj0zfx0sCeiw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCXGUaLLxm6RfTJnEuxm4qUQ",
+                    "authorChannelId": {
+                        "value": "UCXGUaLLxm6RfTJnEuxm4qUQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2023-11-07T12:25:13Z",
+                    "updatedAt": "2023-11-07T12:25:13Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "2wJGKkyHL-DFxmJUv2yJx9_gHh8",
+        "id": "UgwBIrbxwbEsCIZW7M94AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Hbkik6s1VVEbsxbKWGhbwozc9tA",
+                "id": "UgwBIrbxwbEsCIZW7M94AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "love this song",
+                    "textOriginal": "love this song",
+                    "authorDisplayName": "Leah Checko",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/SIQriIy_NzAuSAJ0lmxRA6QQ1B8b584_8R9Abwvbh1VHdVdFctEVoZWJ6It6_FsZaaBm2fexZw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCuVWK5uTngOFa7AknS8bnUA",
+                    "authorChannelId": {
+                        "value": "UCuVWK5uTngOFa7AknS8bnUA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T11:11:56Z",
+                    "updatedAt": "2023-11-07T11:11:56Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "PrsAl8WaO19sGyIum0ZxvThmjYQ",
+        "id": "UgyCxCe-Pz5BFvrAogt4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "3n0O0E8nXPP_r1v-rXD9_dn5-5U",
+                "id": "UgyCxCe-Pz5BFvrAogt4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "iconic",
+                    "textOriginal": "iconic",
+                    "authorDisplayName": "Gamerlaza",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/MGTRVMKGops_Pzlo_inQDxkXPSxKV6diXe6HtrstJEQVMXJvScrOio-OiG9DjTdCdJeTOlAm2A=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCowKVsclATEafkrbIpLA3FQ",
+                    "authorChannelId": {
+                        "value": "UCowKVsclATEafkrbIpLA3FQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T10:50:01Z",
+                    "updatedAt": "2023-11-07T10:50:01Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "AmSaq13z4ChIvTuFusFvdA7KZ6c",
+        "id": "UgwuEprc305O5LSHucl4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Mwq7V8g28jwRJFtYKbt-TmtRErQ",
+                "id": "UgwuEprc305O5LSHucl4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "Rip starbucks lovers.. You will be missed tragically.",
+                    "textOriginal": "Rip starbucks lovers.. You will be missed tragically.",
+                    "authorDisplayName": "Mistress Millie",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/tm_4x0vBOzzUG6dz_JELsWNdlGkCM4CWUQSSdNq44iUl1z4tx-kG7VOIv_lHKE43OmSIIIO6DdQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCRi0MuKtDeulRVXkaeBHvlQ",
+                    "authorChannelId": {
+                        "value": "UCRi0MuKtDeulRVXkaeBHvlQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T08:03:59Z",
+                    "updatedAt": "2023-11-07T08:03:59Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "-dghdZbQSm67IoXCSfhpYXu-SyA",
+        "id": "UgyyNiTPm0S7CwbIdbR4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "76Y10W9TLTKcDFWW9CAysEQawqw",
+                "id": "UgyyNiTPm0S7CwbIdbR4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "Am I the only one who can&#39;t hear the difference?\ud83e\udd7a\ud83d\ude48",
+                    "textOriginal": "Am I the only one who can't hear the difference?\ud83e\udd7a\ud83d\ude48",
+                    "authorDisplayName": "F._.T",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/6d-hGK64wRr7NPA-8LriM13J_tuqU9nTF0n4-xkoTY23yQFiiWd0AcLA3qz5rZ_a8Fmfn4lh=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCQFG-sCbsVaCpbFzZYDwwbQ",
+                    "authorChannelId": {
+                        "value": "UCQFG-sCbsVaCpbFzZYDwwbQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-08T03:59:59Z",
+                    "updatedAt": "2023-11-08T03:59:59Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "Pug1PUD2MfU-Ra6GlCvXoCHVykY",
+        "id": "Ugwp2unRcaZ0IJ111Gp4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "KeCuWRnYf9E8OlwNf-tXvnFnwnA",
+                "id": "Ugwp2unRcaZ0IJ111Gp4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "I thought the lyrics were &quot;heaven sent&quot;, not &quot;heaven sin&quot;,  which is correct?",
+                    "textOriginal": "I thought the lyrics were \"heaven sent\", not \"heaven sin\",  which is correct?",
+                    "authorDisplayName": "britt hunt",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKaN6WJAVzxUHk4cqNZca1q26SuwL0ulffV2Vw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCb_0cNfrBdd-N1d3QCCqXhg",
+                    "authorChannelId": {
+                        "value": "UCb_0cNfrBdd-N1d3QCCqXhg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-08T03:30:19Z",
+                    "updatedAt": "2023-11-08T03:30:19Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "gD4QuHwLB1CP9ndGrzp7psApM7k",
+        "id": "UgzsN1-yNtmPtifTHUd4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "98CY6GCcjTtdiRGdpkppF14OxJc",
+                "id": "UgzsN1-yNtmPtifTHUd4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "Me gust\u00f3 m\u00e1s la versi\u00f3n original.",
+                    "textOriginal": "Me gust\u00f3 m\u00e1s la versi\u00f3n original.",
+                    "authorDisplayName": "galeo dionisio",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKZw2Xr6J0573zeRwnZgRtmOYip4AwUJIFv0Ui2G7qEzYPxOwBEesFcpLBZqxM_P=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCWfILEBwsg2gFKoqVsR0Trg",
+                    "authorChannelId": {
+                        "value": "UCWfILEBwsg2gFKoqVsR0Trg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2023-11-08T03:13:41Z",
+                    "updatedAt": "2023-11-08T03:13:41Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "kgxqQlbYuTt5qr8O3bSInIbCEsA",
+        "id": "Ugw2-x_yagyhPC3ht3R4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "KYQJPefAIkwt-65SqWBPizvm-eM",
+                "id": "Ugw2-x_yagyhPC3ht3R4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "Sounds washed out compared to original",
+                    "textOriginal": "Sounds washed out compared to original",
+                    "authorDisplayName": "thewirednerv",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKbIIQJtfrfJVnWV_AEgy1tfIeJuGU7Ym5JhFQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCVsiZW0HTWGrkqSf67Z6Xxw",
+                    "authorChannelId": {
+                        "value": "UCVsiZW0HTWGrkqSf67Z6Xxw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-08T02:37:18Z",
+                    "updatedAt": "2023-11-08T02:37:18Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "I-DlNnMe-qHUnaZ6YVxKgPq6HQY",
+        "id": "UgwSbMgpuZ7dqlDJSEx4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "lLDRSfx8eyflWSB-V8uIBkHclns",
+                "id": "UgwSbMgpuZ7dqlDJSEx4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "Sorry, but the original is so much better. This version sounds completely computerized/autotuned/AI. Very disappointing.",
+                    "textOriginal": "Sorry, but the original is so much better. This version sounds completely computerized/autotuned/AI. Very disappointing.",
+                    "authorDisplayName": "Mur Ther",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKYRbkfzW5hLTiXCJGm8mFKCz4dyrjphCqUdng=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCzl0CjAgHJiK6LLP3Qj0YgA",
+                    "authorChannelId": {
+                        "value": "UCzl0CjAgHJiK6LLP3Qj0YgA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-08T01:51:47Z",
+                    "updatedAt": "2023-11-08T01:51:47Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "ih2NKeuaZ9KPst5rBDTVdeKq0Xk",
+        "id": "Ugz1tL2CxFxhHsYA8gt4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "xoemcgjm9d0poFQ0B2ufxFunvrk",
+                "id": "Ugz1tL2CxFxhHsYA8gt4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "Prefiro a vers\u00e3o antiga. Esta n\u00e3o parece que a m\u00fasica est\u00e1 cont\u00ednua, parece que ela gravou cada parte e depois botou tudo junto, uma em cima da outra. N\u00e3o me faz viciar como a outra. Desculpa, Taylor, pra mim n\u00e3o foi desta vez. \ud83d\ude22\ud83d\ude22",
+                    "textOriginal": "Prefiro a vers\u00e3o antiga. Esta n\u00e3o parece que a m\u00fasica est\u00e1 cont\u00ednua, parece que ela gravou cada parte e depois botou tudo junto, uma em cima da outra. N\u00e3o me faz viciar como a outra. Desculpa, Taylor, pra mim n\u00e3o foi desta vez. \ud83d\ude22\ud83d\ude22",
+                    "authorDisplayName": "Sebastian Silva",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKajJiPFYey9cwt3_Mf-R3cCCGqwx0yAZD8tFW5x-2c=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCvDRLVb1NjbynMeKdR8PGNw",
+                    "authorChannelId": {
+                        "value": "UCvDRLVb1NjbynMeKdR8PGNw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2023-11-08T01:16:43Z",
+                    "updatedAt": "2023-11-08T01:16:43Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "kiII7eZkaJucHWfTKYRg8j5FYos",
+        "id": "Ugy6Z6meEl9RLTgBNM94AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "jhl9FqVmfA3dAHpiChRrEnxcuq8",
+                "id": "Ugy6Z6meEl9RLTgBNM94AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "YES! NO MORE STARBUCKS LOVERS!!!!!!!!!11!!!!!!",
+                    "textOriginal": "YES! NO MORE STARBUCKS LOVERS!!!!!!!!!11!!!!!!",
+                    "authorDisplayName": "GroovyTomato",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/1-EPgpozhkZ8XL2mlNngSM7C-u_A1FkncHZM8b_Ic1SqR24XJix_smPUuR3XHSW4IWA7OjYvJks=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCKRXFatakoCbUPSyrQvgJXA",
+                    "authorChannelId": {
+                        "value": "UCKRXFatakoCbUPSyrQvgJXA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T23:59:34Z",
+                    "updatedAt": "2023-11-07T23:59:34Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "_RXFDHvhiXEvIr20-EB1etmmA_Y",
+        "id": "Ugwn9rXaIhxv87D_BT94AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "hVoOajJEHW0WtXEtXMs5GEz9wa4",
+                "id": "Ugwn9rXaIhxv87D_BT94AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "I can\u2019t explain why but Taylor swift puts my baby to sleep I appreciate it",
+                    "textOriginal": "I can\u2019t explain why but Taylor swift puts my baby to sleep I appreciate it",
+                    "authorDisplayName": "expired Panda",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKbLs1id7qKd23hYoY5V74gfxJsVYTIlAcBGpHRiLw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCq-avBteDF6a4vCsfS5TzjA",
+                    "authorChannelId": {
+                        "value": "UCq-avBteDF6a4vCsfS5TzjA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T23:41:24Z",
+                    "updatedAt": "2023-11-07T23:41:24Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "a9HwlQrxu6Dk_YYCrpZX6-bU0oU",
+        "id": "Ugz4MZ0HA3bwSnZJEvp4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "iPWWI23fPBzPa9tjgRETrKvB2sI",
+                "id": "Ugz4MZ0HA3bwSnZJEvp4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "She.  Be.  There.   Time.   Fly.  By.  Baby.  Baby.  Ile.  Fix.  Me.  A. Drink.   Be.  Right.  Back. Love.  Ya\u2764\u2764",
+                    "textOriginal": "She.  Be.  There.   Time.   Fly.  By.  Baby.  Baby.  Ile.  Fix.  Me.  A. Drink.   Be.  Right.  Back. Love.  Ya\u2764\u2764",
+                    "authorDisplayName": "Charles Lindsey",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKYMdqagL37Ifcyt6n6hkfJ7fTumkb4h8AVqZ6Vzt3P0MA58hCyXstLJ29CZid8B=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCjMSyYuLf0tVnnbHAPFIlhA",
+                    "authorChannelId": {
+                        "value": "UCjMSyYuLf0tVnnbHAPFIlhA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T23:15:42Z",
+                    "updatedAt": "2023-11-07T23:15:42Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "k-Cv-Kjp41igzpPPjA5jUaAflaY",
+        "id": "UgxqI6SNT5rz-YjCjQZ4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "fdPx0ZRv-uRutZ92YjEosyNLS84",
+                "id": "UgxqI6SNT5rz-YjCjQZ4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "When Taylor\u2019s version came out I started to cry and instantly went to this song, I just love blank space so much, I can\u2019t believe this is still taylor",
+                    "textOriginal": "When Taylor\u2019s version came out I started to cry and instantly went to this song, I just love blank space so much, I can\u2019t believe this is still taylor",
+                    "authorDisplayName": "Taylor_swiftfan_4ever",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/0oHLzjSx5tvL_WVNUN8FSH3lkDa9c2ypsm9BeiuZJnRGaWSmIGcVLyeDqkQXsUb-VfedmR9iZg=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCezCQwfapH7WctS-orEJqyg",
+                    "authorChannelId": {
+                        "value": "UCezCQwfapH7WctS-orEJqyg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T21:16:15Z",
+                    "updatedAt": "2023-11-07T21:16:15Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "ZuerIuPL8djgILhuXAZ9RYaDjGg",
+        "id": "UgyERNFOC3GRyab60kN4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "75rwpg-T7OWagBcsjP06h7qc2Ic",
+                "id": "UgyERNFOC3GRyab60kN4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "<a href=\"https://www.youtube.com/watch?v=gir8BEqAutk&amp;t=2m52s\">2:52</a> so nobody is going to talk about this or what ??? LOL",
+                    "textOriginal": "2:52 so nobody is going to talk about this or what ??? LOL",
+                    "authorDisplayName": "Shahrazad EL",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKYl-3PnuRRIWM-JNjcyRpfWFN0s_wf9GokHBgR6cw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UC6ox4-lNhVvdSGSRIb0Z7tg",
+                    "authorChannelId": {
+                        "value": "UC6ox4-lNhVvdSGSRIb0Z7tg"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2023-11-07T20:55:35Z",
+                    "updatedAt": "2023-11-07T20:55:35Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "PlA5XaQgsCqMU-l1vfqKPRuLVZ4",
+        "id": "Ugzf3dnypJ-J8gYR0aJ4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "L69eOse-6ojezMPaN2_xHY8CC8s",
+                "id": "Ugzf3dnypJ-J8gYR0aJ4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "slaying as always taylor",
+                    "textOriginal": "slaying as always taylor",
+                    "authorDisplayName": "Str4wberrx",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/VG7_W9i2yTdF6PpVDTAvAYrJS3fBjp2GjBTCpRWm_eS-T8bZEPddRF-W1Us9-lIyb_c-aT8k_Lc=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCjXOVtdYSDhPmgj7ffhREVw",
+                    "authorChannelId": {
+                        "value": "UCjXOVtdYSDhPmgj7ffhREVw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2023-11-07T18:35:37Z",
+                    "updatedAt": "2023-11-07T18:35:37Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "23L9LaBQPGYDtqTvXaWt9oV8l-s",
+        "id": "UgwoGSiEd9_jZTonKlN4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "pCIPFzZwZU3-4a9nZVSsXyQNrF0",
+                "id": "UgwoGSiEd9_jZTonKlN4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "Isn&#39;t anyone gonna talk about how we can hear her smiling when she sings &quot;Cuz darling I&#39;m a nightmare dressed like a daydream&quot;",
+                    "textOriginal": "Isn't anyone gonna talk about how we can hear her smiling when she sings \"Cuz darling I'm a nightmare dressed like a daydream\"",
+                    "authorDisplayName": "Darshini RameshKumar",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKbKUxzXTYEi4iqeaXcRR0jZPqHv5ow2SR9loJoms4tqm7dxFl-7upRjKYphZnIA=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCs28CZhhh5Cye3zz559dM-Q",
+                    "authorChannelId": {
+                        "value": "UCs28CZhhh5Cye3zz559dM-Q"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T17:01:24Z",
+                    "updatedAt": "2023-11-07T17:01:24Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "LCqntRPOK4mc30T5gIlYmszCITQ",
+        "id": "UgzAQvhgvFG1VOSSTKZ4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "0ofjYHn6f0syaaSmAnNWKuFVXkQ",
+                "id": "UgzAQvhgvFG1VOSSTKZ4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "THIS IS SO PERFECT SHE HAS ALBUMS AND LITERALLY SHES A STAR THE VOICE IS MORE LOUD AND CLEAR",
+                    "textOriginal": "THIS IS SO PERFECT SHE HAS ALBUMS AND LITERALLY SHES A STAR THE VOICE IS MORE LOUD AND CLEAR",
+                    "authorDisplayName": "JedV TV",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/KEsdmW7GHP8AjtiZp4nLq6FURNysUg-bHpSbEU6jgpBYsylcxfI9ED7MfyTVRvNUy6cgY4wSXQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCWXgegJpOYPZ7RVz4ydyWdw",
+                    "authorChannelId": {
+                        "value": "UCWXgegJpOYPZ7RVz4ydyWdw"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T15:03:53Z",
+                    "updatedAt": "2023-11-07T15:03:53Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "F4uoecGxJ4gQ9aq-dNYd1wuKv5E",
+        "id": "UgxIiDKipQ8_cpQyb114AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "9wCNfV0iaRuhkBPmmbQxpZ8lFc8",
+                "id": "UgxIiDKipQ8_cpQyb114AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "s========iiiiiiiiii",
+                    "textOriginal": "s========iiiiiiiiii",
+                    "authorDisplayName": "Andrea Rashel Itzep P\u00e9rez",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKZ9AkEWbZoxCPUvnFWxI0SkYynHLymaNEeoDTRe9kqcYMjG4IUIse3iwiV-BKIQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCeG6-RDtfig5VkRGqkSbvEA",
+                    "authorChannelId": {
+                        "value": "UCeG6-RDtfig5VkRGqkSbvEA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T14:41:00Z",
+                    "updatedAt": "2023-11-07T14:41:00Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "GI5CjvXir5idPsnp93HdNjZZmks",
+        "id": "Ugz_QwPXEwFhKKl0dzN4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "-KMVoqSPxTQv-UIbXojYUJoTaXk",
+                "id": "Ugz_QwPXEwFhKKl0dzN4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "d",
+                    "textOriginal": "d",
+                    "authorDisplayName": "Andrea Rashel Itzep P\u00e9rez",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKZ9AkEWbZoxCPUvnFWxI0SkYynHLymaNEeoDTRe9kqcYMjG4IUIse3iwiV-BKIQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCeG6-RDtfig5VkRGqkSbvEA",
+                    "authorChannelId": {
+                        "value": "UCeG6-RDtfig5VkRGqkSbvEA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T14:40:05Z",
+                    "updatedAt": "2023-11-07T14:40:05Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "KZlq20Rg2w3QEDyEqa_eX2HRCoQ",
+        "id": "UgxzSmiBhJtglHUFrAx4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "REQ8gRM8roYLM8pUBaimDH8sZDo",
+                "id": "UgxzSmiBhJtglHUFrAx4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "Nice track for headphone users, the beat sits in a nice spot.",
+                    "textOriginal": "Nice track for headphone users, the beat sits in a nice spot.",
+                    "authorDisplayName": "uw10isplaya",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKZDjtd-Fq4ZACEoQcx4LKX_Ojzj0zfx0sCeiw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCXGUaLLxm6RfTJnEuxm4qUQ",
+                    "authorChannelId": {
+                        "value": "UCXGUaLLxm6RfTJnEuxm4qUQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 1,
+                    "publishedAt": "2023-11-07T12:25:13Z",
+                    "updatedAt": "2023-11-07T12:25:13Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "2wJGKkyHL-DFxmJUv2yJx9_gHh8",
+        "id": "UgwBIrbxwbEsCIZW7M94AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Hbkik6s1VVEbsxbKWGhbwozc9tA",
+                "id": "UgwBIrbxwbEsCIZW7M94AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "love this song",
+                    "textOriginal": "love this song",
+                    "authorDisplayName": "Leah Checko",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/SIQriIy_NzAuSAJ0lmxRA6QQ1B8b584_8R9Abwvbh1VHdVdFctEVoZWJ6It6_FsZaaBm2fexZw=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCuVWK5uTngOFa7AknS8bnUA",
+                    "authorChannelId": {
+                        "value": "UCuVWK5uTngOFa7AknS8bnUA"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T11:11:56Z",
+                    "updatedAt": "2023-11-07T11:11:56Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "PrsAl8WaO19sGyIum0ZxvThmjYQ",
+        "id": "UgyCxCe-Pz5BFvrAogt4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "3n0O0E8nXPP_r1v-rXD9_dn5-5U",
+                "id": "UgyCxCe-Pz5BFvrAogt4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "iconic",
+                    "textOriginal": "iconic",
+                    "authorDisplayName": "Gamerlaza",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/MGTRVMKGops_Pzlo_inQDxkXPSxKV6diXe6HtrstJEQVMXJvScrOio-OiG9DjTdCdJeTOlAm2A=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCowKVsclATEafkrbIpLA3FQ",
+                    "authorChannelId": {
+                        "value": "UCowKVsclATEafkrbIpLA3FQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T10:50:01Z",
+                    "updatedAt": "2023-11-07T10:50:01Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    },
+    {
+        "kind": "youtube#commentThread",
+        "etag": "AmSaq13z4ChIvTuFusFvdA7KZ6c",
+        "id": "UgwuEprc305O5LSHucl4AaABAg",
+        "snippet": {
+            "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+            "videoId": "gir8BEqAutk",
+            "topLevelComment": {
+                "kind": "youtube#comment",
+                "etag": "Mwq7V8g28jwRJFtYKbt-TmtRErQ",
+                "id": "UgwuEprc305O5LSHucl4AaABAg",
+                "snippet": {
+                    "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+                    "videoId": "gir8BEqAutk",
+                    "textDisplay": "Rip starbucks lovers.. You will be missed tragically.",
+                    "textOriginal": "Rip starbucks lovers.. You will be missed tragically.",
+                    "authorDisplayName": "Mistress Millie",
+                    "authorProfileImageUrl": "https://yt3.ggpht.com/tm_4x0vBOzzUG6dz_JELsWNdlGkCM4CWUQSSdNq44iUl1z4tx-kG7VOIv_lHKE43OmSIIIO6DdQ=s48-c-k-c0x00ffffff-no-rj",
+                    "authorChannelUrl": "http://www.youtube.com/channel/UCRi0MuKtDeulRVXkaeBHvlQ",
+                    "authorChannelId": {
+                        "value": "UCRi0MuKtDeulRVXkaeBHvlQ"
+                    },
+                    "canRate": true,
+                    "viewerRating": "none",
+                    "likeCount": 0,
+                    "publishedAt": "2023-11-07T08:03:59Z",
+                    "updatedAt": "2023-11-07T08:03:59Z"
+                }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+        }
+    }
+]
