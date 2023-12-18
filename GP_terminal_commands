@@ -1,0 +1,3 @@
+cd ./advanced-databases/
+docker-compose start 
+docker-compose start jupyter mongo cassandra neo4j
