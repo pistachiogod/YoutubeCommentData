@@ -13,7 +13,7 @@ Generally, the program functions out of Spark with a minimal number of commands 
 
 This project includes
 
- - A Main python notebook file that contains all the data
- - Terminal commands to boot up your Azure Lab Studio (assuming you have the proper docker setup)
- - Full Report on Our Findings
+ - A **main** python notebook file that contains all the data
+ - **Terminal commands** to boot up your Azure Lab Studio (assuming you have the proper docker setup)
+ - Full **report** on Our findings
    
