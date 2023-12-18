@@ -7,3 +7,13 @@ The purpose of this experiment is to gather comments and information from music 
 Using a generalized process, the solution for the particular question of “how can a system of systems be used to interpret information about generated media” is scalable from examination of a single video to an entire library of artistic works. The goal of the program itself is to run fully with minimal manual interaction from the analyst/engineer to gather data and distribute to multiple storage solutions for analysis later. Once the data is stored for the desired number of videos, relationships can be identified as well as trends for commenting and popularity. The system itself can be applied to any artist and desired number of videos, demonstrating flexibility and scalability of the solution.
 ## Methodology
 Generally, the program functions out of Spark with a minimal number of commands required in the Command Prompt to initialize functionality with docker-compose. Initially, the program builds the dataset with a preformatted Google Application-Program Interface (API) that iterates multiple times to gather Video Title and Comment Data; number of videos required for the analyst determines the total number of iterations to construct the dataset. Once the data is ingested by Spark in JSON format, it is stored in MongoDB. From Mongo, the data is read into Spark and stored separately into Cassandra’s wide-table format. The data is then read into Neo4j for relationship analysis with the organic Graph Database function. Spark is also used to conduct multiple Pandas representation of popular comments and to direct function for each database system employed.
+
+
+## Details
+
+This project includes
+
+ - A Main python notebook file that contains all the data
+ - Terminal commands to boot up your Azure Lab Studio (assuming you have the proper docker setup)
+ - Full Report on Our Findings
+   
