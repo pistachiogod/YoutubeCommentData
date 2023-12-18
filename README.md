@@ -1,5 +1,4 @@
-# taylorswiftarmy
-
+# Retrieving and Processing YouTube Comment Data
 
 ## Introduction and Problem Statement
 Since the organization was founded in 2005, YouTube has provided digital media to billions of consumers for anything from infamous cat videos, motivational groups, or instruction on how to work with a new coding language. Particularly, music videos after the fall of MTV have become a major component of the content delivery service provided by YouTube, allowing well known and up-and-coming artists to produce and distribute their chosen form of media.
